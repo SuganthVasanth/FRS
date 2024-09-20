@@ -1,0 +1,29 @@
+/* *{
+    background-color: bisque;
+} */
+ *{
+    margin: 0px;
+    font-family:'Poppins';
+}
+.side_nav{
+    display: block;
+    width: 150px;
+    height: auto;
+    border: 0px;
+    border-right: 2px;
+    border-color: #000000;
+    border-style: solid;
+}
+.side_nav h3{
+    color: #1E90FF;
+    margin: 0px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.navigations{
+    margin-top: 20px;
+}
+.dashboard{
+    text-decoration: none;
+    margin-left: 30px;
+}
